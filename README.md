@@ -1,3 +1,7 @@
+# DEPRECATED - This repository is no longer maintained
+
+**Capabilities provided by this repository have migrated to the [ansible-middleware](https://github.com/ansible-middleware) project and specifically the [jws-ansible-playbook](https://github.com/ansible-middleware/jws-ansible-playbook) repository.**
+
 Role Name
 =========
 
